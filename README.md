@@ -10,7 +10,7 @@ The main goal of this project was to convert raw data into meaningful insights t
 
 ## Dashboard Preview
 
-> *(Add a screenshot of your dashboard here)*
+
 
 ---
 
@@ -91,7 +91,7 @@ It also gave me a better understanding of how businesses monitor inventory, supp
 
 **Tej Zalte**
 
-- LinkedIn: *(Add your LinkedIn profile)*
-- GitHub: *(Add your GitHub profile)*
+- LinkedIn: *(tejaszalte1383@gmail.com)*
+- GitHub: *(TejasZalte)*
 
 If you liked this project or found it helpful, feel free to ⭐ the repository.
